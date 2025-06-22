@@ -12,3 +12,5 @@ todays date is 12 june 2025 i'm still github and git. I'm late by 2-3 hours. Jai
 
 today's my plan is to learn git and start tds project.
 still I'm learning git and implementing it's concepts.
+
+today's 22 June 2025, Still trying to something! 
