@@ -14,3 +14,9 @@ today's my plan is to learn git and start tds project.
 still I'm learning git and implementing it's concepts.
 
 today's 22 June 2025, Still trying to something! 
+
+This is a new line being added on 9th March 2026. I'm testing out git once again as i have to use it for my iitm mad-1 project the placement portal application. 
+Currently I'm editing this README.md using vim, on my wsl ubuntu distro via tmux on my alacritty setup on my latest asus expertbook p1 
+Nanna luv u maa ninnu kudaa tammudu ninnu oka pav kilo takkuva premistunna amma nanna toh poliste baadha padaku! Jai Shri Ram!
+Dharmaanni nirvartinchaali!! 
+                                                    Jai Shri Ram!
